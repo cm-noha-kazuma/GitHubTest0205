@@ -15,7 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         let devBranch = 0
-        let featBranch = 1
+        var featBranch = 1
+        
+        featBranch = 123
     }
 
 
